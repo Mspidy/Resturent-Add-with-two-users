@@ -1,0 +1,17 @@
+.logOut{
+    margin-left: 90%;
+    margin-top: 20px;
+}
+.customer{
+    text-align: center;
+    color: red;
+    margin-top: -80px;
+    font-size: large;
+}
+.dialog{
+    text-align: center;
+    margin-left: 1300px;
+}
+.totalPrice{
+    text-align: center;
+}

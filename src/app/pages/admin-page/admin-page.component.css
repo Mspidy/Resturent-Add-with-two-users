@@ -1,0 +1,21 @@
+.logOut{
+    margin-left: 90%;
+}
+.p-field-checkbox{
+    margin-inline: 40%;
+}
+.resto{
+    
+    text-align: center;
+    color: orangered;
+}
+.status-2{
+    color: green;
+}
+.status-2{
+    color: red;
+}
+.text-danger{
+    color: red;
+    font-size: small;
+}

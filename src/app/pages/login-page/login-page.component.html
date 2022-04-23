@@ -1,0 +1,19 @@
+    <div class="p-d-flex">
+        <div class="res">
+            <h1>Login For Resturent</h1>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="p-d-flex">
+            <div>
+                <input #email class="user1" type="email" pInputText placeholder="User Email">
+            </div>
+            <div>
+                <input class="user1" type="password" pInputText placeholder="Enter Password">
+            </div>
+            <div>
+                <p-button class="user2" label="SignIn" (click)="getValue(email.value)"></p-button>
+            </div>
+        </div>
+    </div>

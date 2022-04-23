@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+    margin-top: 170px;
+}
+.user1{
+    width: 40%;
+    
+    margin-bottom: 20px;
+}
+
+.user2{
+    width: 50%;
+}
+.res{
+    text-align: center;
+    color: rgb(221, 128, 5);
+}
